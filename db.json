@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "1111",
+      "description": "Banana",
+      "price": "1",
+      "category": "Fruta",
+      "imgUrl": "http://pngimg.com/uploads/banana/banana_PNG852.png"
+    },
+    {
+      "id": 2,
+      "code": "1122",
+      "description": "Maca",
+      "price": "3",
+      "category": "Fruta",
+      "imgUrl": "http://pngimg.com/uploads/apple/apple_PNG12440.png"
+    },
+    {
+      "id": 3,
+      "code": "1332",
+      "description": "Laranja",
+      "price": "2",
+      "category": "Fruta",
+      "imgUrl": "http://pngimg.com/uploads/orange/orange_PNG803.png"
+    },
+    {
+      "id": 4,
+      "code": "11131",
+      "description": "Pera",
+      "price": "4",
+      "category": "Fruta",
+      "imgUrl": "https://pngimg.com/uploads/pear/pear_PNG3429.png"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
